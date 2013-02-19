@@ -4,6 +4,7 @@
     "dependencies": {
         "requirejs": "~2.1",
         "requirejs-text": "~2.0",
+        "curl": "~0.7",
         "jquery": "~1.9",
         "backbone": "~0.9",
         "backbone.stickit": "~0.6",
